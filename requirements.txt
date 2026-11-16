@@ -1,5 +1,4 @@
-flet==0.25.2
-pandas
-fpdf2
-requests
-openpyxl
+flet>=0.20.0
+supabase
+pyzbar
+opencv-python-headless
