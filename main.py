@@ -311,4 +311,5 @@ def main(page: ft.Page):
     page.go(page.route)
 
 
-ft.app(target=main)
+if __name__ == "__main__":
+    ft.app(target=main)
